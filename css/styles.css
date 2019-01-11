@@ -1,5 +1,13 @@
 
 
+.sb-footer {
+float: right;
+}
+
+.sb-p- {
+
+}
+
 #img-body {
   background-image: url("../img/mthood.jpg");
   display: block;
