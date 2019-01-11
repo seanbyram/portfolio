@@ -1,7 +1,7 @@
 
 
 .sb-footer {
-float: right;
+align-items: center;
 }
 
 .sb-box {
@@ -22,8 +22,14 @@ float: right;
 
 .sb-img {
   float: right;
+  border-radius: 8px;
+  margin-bottom: 25px;
 }
 
+.sb-imp {
+  color: green;
+  font-style: italic;
+}
 
 #img-body {
   background-color: #262626;
