@@ -4,11 +4,19 @@
 float: right;
 }
 
-.sb-p- {
+.sb-box {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 2px solid green;
+  margin-bottom: 25px;
+  margin-top: 25px;
 
 }
 
 #img-body {
-  background-image: url("../img/mthood.jpg");
+  background-color: #262626;
+  color: #ffffff;
   display: block;
 }
